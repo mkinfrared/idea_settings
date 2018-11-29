@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping pattern="SQL with Street Fighter Total Wins" type="SQL" />
+      <mapping pattern="SQL with Street Fighter: Total Wins" type="SQL" />
+      <mapping pattern="SQL with LOTR Elven Wildcards" type="SQL" />
+    </extensionMap>
+  </component>
+</application>

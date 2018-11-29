@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9bc28fee-2264-4aee-9f33-a74202e4edbc" name="mkinfrared">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>

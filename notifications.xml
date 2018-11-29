@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="MATERIAL_THEME_UPDATE" />
+    <notification groupId="Quokka Notifications" />
+  </component>
+</application>
