@@ -478,13 +478,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="bef" value="before(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before" toReformat="false" toShortenFQNames="true">
+  <template name="bef" value="before(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="befe" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before each" toReformat="false" toShortenFQNames="true">
+  <template name="befe" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before each" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
