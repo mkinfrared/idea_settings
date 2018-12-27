@@ -303,7 +303,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="fsst" value="this.setState((prevState) =&gt; {&#10;  return {$END$}&#10;})" description="React: functional setState" toReformat="true" toShortenFQNames="true">
+  <template name="fsst" value="this.setState((prevState) =&gt; ({&#10;  $END$&#10;}))" description="React: functional setState" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
