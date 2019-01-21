@@ -4,7 +4,7 @@
     <property name="created">2018-12-06T20:03:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-01-22T01:11:36</property>
+    <property name="modified">2018-12-06T20:15:23</property>
     <property name="originalScheme">ULTRA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -797,7 +797,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e7db74" />
+        <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1345,12 +1345,6 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="JS.DEBUGGER_STMT">
-      <value>
-        <option name="FOREGROUND" value="f92472" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="7ca1ff" />
@@ -1359,24 +1353,6 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f1fdff" />
-      </value>
-    </option>
-    <option name="JS.MODULE_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f92472" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.NULL_UNDEFINED">
-      <value>
-        <option name="FOREGROUND" value="ac80ff" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JS.THIS_SUPER">
-      <value>
-        <option name="FOREGROUND" value="fd9622" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
