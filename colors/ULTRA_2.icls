@@ -1,10 +1,10 @@
-<scheme name="ULTRA" version="142" parent_scheme="Darcula">
+<scheme name="ULTRA_2" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2018-12-06T20:03:28</property>
+    <property name="created">2019-01-22T01:12:59</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2019-01-22T01:34:31</property>
+    <property name="ideVersion">2018.3.3.0.0</property>
+    <property name="modified">2019-01-22T01:26:13</property>
     <property name="originalScheme">ULTRA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -640,7 +640,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="e7db74" />
+        <option name="FOREGROUND" value="a6e22b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -715,7 +715,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="7ca1ff" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -792,12 +792,12 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="e7db74" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1345,6 +1345,11 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.DEBUGGER_STMT">
+      <value>
+        <option name="FOREGROUND" value="f92472" />
+      </value>
+    </option>
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="7ca1ff" />
@@ -1353,6 +1358,23 @@
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f1fdff" />
+      </value>
+    </option>
+    <option name="JS.MODULE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f92472" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="JS.NULL_UNDEFINED">
+      <value>
+        <option name="FOREGROUND" value="ac80ff" />
+      </value>
+    </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="fd9622" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
