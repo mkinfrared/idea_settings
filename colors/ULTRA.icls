@@ -4,7 +4,7 @@
     <property name="created">2018-12-06T20:03:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2018-12-06T20:15:23</property>
+    <property name="modified">2019-01-22T00:26:22</property>
     <property name="originalScheme">ULTRA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -450,6 +450,11 @@
         <option name="FOREGROUND" value="536c46" />
       </value>
     </option>
+    <option name="CONSOLE_BLUE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="154a6" />
+      </value>
+    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="33cccc" />
@@ -457,7 +462,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="a70334" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
@@ -467,12 +472,12 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="74aa04" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff70ff" />
+        <option name="FOREGROUND" value="89569c" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -487,6 +492,11 @@
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
       <value />
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a70334" />
+      </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
@@ -506,7 +516,7 @@
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cdcd00" />
+        <option name="FOREGROUND" value="b6b649" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
@@ -1429,9 +1439,24 @@
         <option name="BACKGROUND" value="12404b" />
       </value>
     </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="58c2e5" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="f3044b" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="8dd006" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="1a83a6" />
       </value>
     </option>
     <option name="Label">
