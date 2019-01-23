@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T10:35:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-23T10:50:53</property>
+    <property name="modified">2019-01-23T11:03:14</property>
     <property name="originalScheme">ULTRA_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -547,8 +547,8 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f92472" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.OPERATORS">
@@ -560,7 +560,7 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CSS.PROPERTY_VALUE">
@@ -576,7 +576,6 @@
     <option name="CSS.TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f92572" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.UNICODE.RANGE">
@@ -710,13 +709,11 @@
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
@@ -732,7 +729,6 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -811,7 +807,6 @@
     <option name="DEFAULT_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -3335,7 +3330,6 @@
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
