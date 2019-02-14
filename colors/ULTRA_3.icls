@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T10:35:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-02-14T00:09:04</property>
+    <property name="modified">2019-02-14T23:22:43</property>
     <property name="originalScheme">ULTRA_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2269,6 +2269,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="e6b422" />
         <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
