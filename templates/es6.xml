@@ -195,7 +195,8 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gf" value="function* ($arguments$) {&#10;  $END$&#10;}" description="Functions: generator function (ES6)" toReformat="false" toShortenFQNames="true">
+  <template name="gf" value="function* $name$ ($arguments$) {&#10;  $END$&#10;}" description="Functions: generator function (ES6)" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
