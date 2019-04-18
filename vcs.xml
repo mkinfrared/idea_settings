@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/mkinfrared/express-typescript-starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.fogstream.ru" />
+          <option name="userName" value="mikhail.korotkov@fogstream.ru" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\mkinfrared\Documents\Mega\Web-Development\Test" />
