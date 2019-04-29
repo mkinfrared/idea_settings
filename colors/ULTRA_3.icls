@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T10:35:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-04-04T10:19:02</property>
+    <property name="modified">2019-04-28T21:44:33</property>
     <property name="originalScheme">ULTRA_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -922,12 +922,14 @@
     </option>
     <option name="GO_BRACES">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_BRACKET">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_BUILTIN_CONSTANT">
@@ -942,7 +944,7 @@
     </option>
     <option name="GO_BUILTIN_TYPE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
     <option name="GO_BUILTIN_VARIABLE">
@@ -958,7 +960,8 @@
     </option>
     <option name="GO_COMMA">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_COMMENT_KEYWORD">
@@ -974,12 +977,12 @@
     </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="GO_FUNCTION_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="fd9720" />
       </value>
     </option>
     <option name="GO_IDENTIFIER">
@@ -989,7 +992,7 @@
     </option>
     <option name="GO_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="66d9ef" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1011,7 +1014,7 @@
     </option>
     <option name="GO_LOCAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="GO_LOCAL_VARIABLE">
@@ -1026,12 +1029,13 @@
     </option>
     <option name="GO_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
     <option name="GO_OPERATOR">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="f92572" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_PACKAGE">
@@ -1046,7 +1050,7 @@
     </option>
     <option name="GO_PACKAGE_EXPORTED_INTERFACE">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="a6e22f" />
       </value>
     </option>
     <option name="GO_PACKAGE_EXPORTED_STRUCT">
@@ -1066,7 +1070,7 @@
     </option>
     <option name="GO_PACKAGE_LOCAL_INTERFACE">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="a6e22f" />
       </value>
     </option>
     <option name="GO_PACKAGE_LOCAL_STRUCT">
@@ -1081,7 +1085,8 @@
     </option>
     <option name="GO_PARENTHESES">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_SCOPE_VARIABLE">
@@ -1091,12 +1096,13 @@
     </option>
     <option name="GO_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="GO_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
     <option name="GO_STRUCT_EXPORTED_MEMBER">
@@ -1112,7 +1118,7 @@
     </option>
     <option name="GO_TYPE_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
     <option name="GO_TYPE_SPECIFICATION">
@@ -1394,11 +1400,6 @@
     </option>
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
-    </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
