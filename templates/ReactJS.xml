@@ -166,7 +166,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cdc" value="componentDidCatch() {&#10;  $END$&#10;}&#10;" description="React: componentDidCatch" toReformat="true" toShortenFQNames="true">
+  <template name="cdc" value="componentDidCatch(error, errorInfo) {&#10;  $END$&#10;}&#10;" description="React: componentDidCatch" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
