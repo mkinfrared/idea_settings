@@ -1,0 +1,8 @@
+<templateSet group="Java">
+  <template name="af" value="($START$) -&gt; $END$" description="Lambda Function" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
