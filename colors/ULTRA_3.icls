@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T10:35:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-06-22T16:58:42</property>
+    <property name="modified">2019-06-22T17:09:34</property>
     <property name="originalScheme">ULTRA_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -46,7 +46,7 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="49483e" />
-    <option name="GUTTER_BACKGROUND" value="212121" />
+    <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="737051" />
