@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Docker" type="Dockerfile" />
+      <mapping pattern=".huskyrc" type="JSON" />
+      <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".huskyrc" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
