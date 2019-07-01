@@ -844,9 +844,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ust" value="const [$VAR$, set$VAR2$] = useState($END$);" description="useState Hook" toReformat="false" toShortenFQNames="true">
-    <variable name="VAR" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
-    <variable name="VAR2" expression="jsSuggestVariableName()" defaultValue="$VAR$" alwaysStopAt="true" />
+  <template name="ust" value="const [$state$, set$setState$] = useState($initState$);$END$" description="useState" toReformat="false" toShortenFQNames="true">
+    <variable name="state" expression="" defaultValue="&quot;state&quot;" alwaysStopAt="true" />
+    <variable name="setState" expression="capitalize(state)" defaultValue="" alwaysStopAt="true" />
+    <variable name="initState" expression="" defaultValue="&quot;initState&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
