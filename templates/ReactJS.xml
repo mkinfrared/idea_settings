@@ -824,4 +824,31 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="mstp" value="const mapStateToProps = ($START$) =&gt; ({&#10;  $PROP$: $END$,&#10;});" description="mapStateToProps" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mdtp" value="const mapDispatchToProps = {&#10;  $PROP$: $END$,&#10;};" description="mapDispatchToProps" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mdtpf" value="const mapDispatchToProps = (dispatch, { $PROPS$ }) =&gt; ({&#10;  $PROP$: $END$,&#10;});" description="mapDispatchToProps function" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ust" value="const [$VAR$, set$VAR2$] = useState($END$);" description="useState Hook" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="camelCase(String)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR2" expression="jsSuggestVariableName()" defaultValue="$VAR$" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
