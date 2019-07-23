@@ -101,8 +101,11 @@
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="0" />
     <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
     <option name="IDENTIFIER_CASE" value="0" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <SybaseCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
