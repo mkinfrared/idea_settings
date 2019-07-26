@@ -7,6 +7,7 @@
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping ext="toml" type="YAML" />
       <removed_mapping pattern=".huskyrc" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
