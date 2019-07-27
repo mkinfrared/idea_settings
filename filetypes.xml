@@ -5,10 +5,8 @@
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="Properties" />
       <mapping ext="toml" type="YAML" />
       <removed_mapping pattern=".huskyrc" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
