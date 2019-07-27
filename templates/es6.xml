@@ -633,7 +633,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="us" value="'use strict';" description="Miscellaneous: use strict" toReformat="false" toShortenFQNames="true">
+  <template name="us" value="'use strict';" description="Miscellaneous: use strict" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
