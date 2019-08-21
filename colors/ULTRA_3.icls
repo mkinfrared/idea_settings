@@ -4,7 +4,7 @@
     <property name="created">2019-01-23T10:35:39</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-07-01T11:51:26</property>
+    <property name="modified">2019-08-21T15:49:41</property>
     <property name="originalScheme">ULTRA_2</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1124,6 +1124,21 @@
     <option name="GO_TYPE_SPECIFICATION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
+      </value>
+    </option>
+    <option name="GRAPHQL_FIELD_NAME">
+      <value>
+        <option name="FOREGROUND" value="a6e22f" />
+      </value>
+    </option>
+    <option name="GRAPHQL_TYPE_NAME">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="GRAPHQL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fd9720" />
       </value>
     </option>
     <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
