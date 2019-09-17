@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-06T10:20:35</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-09-16T19:47:49</property>
+    <property name="created">2019-09-17T19:31:24</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2019.2.2.0.0</property>
+    <property name="modified">2019-09-17T20:03:42</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -42,8 +42,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
@@ -75,29 +73,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.thumbColor" value="ff9800" />
+    <option name="ScrollBar.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.trackColor" value="212121" />
     <option name="TEARLINE_COLOR" value="424242" />
     <option name="TOOLTIP" value="323232" />
@@ -156,6 +154,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -691,12 +692,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_FUNCTION_PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
-    <option name="GO_METHOD_RECEIVER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
       </value>
@@ -1023,11 +1020,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1039,6 +1035,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -1056,6 +1053,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="323232" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2162,6 +2164,11 @@
         <option name="BACKGROUND" value="474747" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="474747" />
+      </value>
+    </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2279,6 +2286,7 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
+    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2290,6 +2298,10 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -2301,6 +2313,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
     <option name="QL_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -2677,6 +2690,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d1a075" />
