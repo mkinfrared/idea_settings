@@ -624,7 +624,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="on" value="$emitter$.on('$event$', $arguments$) =&gt; {&#10;  $END$&#10;});" description="Node.js specifics:  attach an event handler (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="on" value="$emitter$.on('$event$', $arguments$) =&gt; {&#10;  $END$&#10;});" description="Node.js specifics:  attach an event handler (chainable)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="emitter" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />

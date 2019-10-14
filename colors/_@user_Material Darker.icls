@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-06T10:20:35</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-28T11:28:16</property>
+    <property name="created">2019-09-28T11:12:18</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2019.2.2.0.0</property>
+    <property name="modified">2019-10-14T21:37:50</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -75,29 +75,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.thumbColor" value="ff9800" />
+    <option name="ScrollBar.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.trackColor" value="212121" />
     <option name="TEARLINE_COLOR" value="424242" />
     <option name="TOOLTIP" value="323232" />
@@ -696,11 +696,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="GO_METHOD_RECEIVER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -1023,11 +1018,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1056,6 +1046,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="323232" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2160,6 +2155,11 @@
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="474747" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="474747" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
