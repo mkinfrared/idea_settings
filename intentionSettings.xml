@@ -82,5 +82,8 @@
     <ignoreAction name="JavaScript/Split declarations" />
     <ignoreAction name="JavaScript/Swap method call arguments" />
     <ignoreAction name="JavaScript/Unquote property names" />
+    <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove attribute" />
   </component>
 </application>
