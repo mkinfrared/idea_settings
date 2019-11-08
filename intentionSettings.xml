@@ -85,5 +85,7 @@
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="XML/Rearrange tag attributes" />
     <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="XML/Expand empty tag" />
   </component>
 </application>
