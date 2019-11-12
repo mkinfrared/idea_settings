@@ -1,11 +1,11 @@
 <templateSet group="Java">
-  <template name="af" value="($START$) -&gt; $END$" description="Lambda Function" toReformat="false" toShortenFQNames="true">
+  <template name="af" value="($START$) -&gt; $END$" description="Lambda Function" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tc" value="try {&#10;  $try_body$&#10;} catch ($error$) {&#10;  $catch_body$&#10;}" description="try catch block" toReformat="false" toShortenFQNames="true">
+  <template name="tc" value="try {&#10;  $try_body$&#10;} catch ($error$) {&#10;  $catch_body$&#10;}" description="try catch block" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="try_body" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="error" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="catch_body" expression="" defaultValue="" alwaysStopAt="true" />
