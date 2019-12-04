@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-06T10:20:35</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-08T11:06:05</property>
+    <property name="created">2019-09-28T11:12:18</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2019.2.2.0.0</property>
+    <property name="modified">2019-11-28T21:02:38</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -75,29 +75,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="424242" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Mac.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.Mac.trackColor" value="212121" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ff9800" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ff980080" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
     <option name="ScrollBar.Transparent.trackColor" value="212121" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ff9800" />
     <option name="ScrollBar.hoverThumbColor" value="ff9800" />
     <option name="ScrollBar.hoverTrackColor" value="212121" />
-    <option name="ScrollBar.thumbBorderColor" value="ff9800" />
-    <option name="ScrollBar.thumbColor" value="ff9800" />
+    <option name="ScrollBar.thumbBorderColor" value="ff9800c0" />
+    <option name="ScrollBar.thumbColor" value="ff9800c0" />
     <option name="ScrollBar.trackColor" value="212121" />
     <option name="TEARLINE_COLOR" value="424242" />
     <option name="TOOLTIP" value="323232" />
@@ -233,7 +233,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -696,28 +696,23 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="GO_METHOD_RECEIVER">
-      <value>
-        <option name="FOREGROUND" value="f78c6c" />
-      </value>
-    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
-    <option name="HAML_RUBY_START" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -730,7 +725,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HAML_WS_REMOVAL">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -738,7 +733,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -994,6 +989,10 @@
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.MODIFIER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1023,11 +1022,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1039,6 +1037,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -1055,7 +1054,12 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="323232" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2162,6 +2166,11 @@
         <option name="BACKGROUND" value="474747" />
       </value>
     </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="474747" />
+      </value>
+    </option>
     <option name="OC.CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -2824,9 +2833,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />

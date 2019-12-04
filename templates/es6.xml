@@ -153,7 +153,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fa" value="$fn$.apply($context$, $arguments$)" description="Functions: function apply" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="fa" value="$fn$.apply($context$, $arguments$)" description="Functions: function apply" toReformat="false" toShortenFQNames="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -162,7 +162,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fc" value="$fn$.call($context$, $arguments$)" description="Functions: function call" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="fc" value="$fn$.call($context$, $arguments$)" description="Functions: function call" toReformat="false" toShortenFQNames="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -171,7 +171,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fb" value="$fn$.bind($context$, $arguments$)" description="Functions: function bind" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="fb" value="$fn$.bind($context$, $arguments$)" description="Functions: function bind" toReformat="false" toShortenFQNames="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -541,7 +541,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="sim" value="setImmediate(() =&gt; {&#10;  $END$&#10;});" description="Timers: setImmediate" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="sim" value="setImmediate(() =&gt; {&#10;  $END$&#10;});" description="Timers: setImmediate" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
