@@ -26,6 +26,10 @@
           <option name="url" value="http://gitlab.salondev.net" />
           <option name="userName" value="mikhail.korotkov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.zebrains.team" />
+          <option name="userName" value="m.korotkov" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\mkinfrared\Documents\Mega\Web-Development\Test" />
