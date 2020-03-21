@@ -868,7 +868,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ucb" value="useCallback(&#10;  () =&gt; {&#10;    $callback$&#10;  },&#10;  [$input$],&#10;);&#10;$END$" description="useCallback" toReformat="true" toShortenFQNames="true">
+  <template name="ucb" value="useCallback(() =&gt; {&#10;    $callback$&#10;  },&#10;  [$input$]&#10;);&#10;$END$" description="useCallback" toReformat="true" toShortenFQNames="true">
     <variable name="callback" expression="" defaultValue="&quot;callback&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context>
