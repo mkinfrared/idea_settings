@@ -16,6 +16,9 @@
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
