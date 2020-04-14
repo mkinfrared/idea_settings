@@ -678,4 +678,11 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
+  <template name="d" value="$VARKIND$ {$END$} = $object$;" description="Object destructure" toReformat="false" toShortenFQNames="true">
+    <variable name="VARKIND" expression="jsSuggestDefaultVariableKind()" defaultValue="const" alwaysStopAt="true" />
+    <variable name="object" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
