@@ -882,9 +882,9 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="umm" value="useMemo(() =&gt; $function$, $input$);$END$" description="useMemo" toReformat="true" toShortenFQNames="true">
+  <template name="umm" value="useMemo(() =&gt; $function$, [$input$]);$END$" description="useMemo" toReformat="true" toShortenFQNames="true">
     <variable name="function" expression="" defaultValue="&quot;function&quot;" alwaysStopAt="true" />
-    <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
+    <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
