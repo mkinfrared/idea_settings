@@ -854,7 +854,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="uef" value="useEffect(() =&gt; {&#10;  $effect$&#10;}, [$input$]);&#10;$END$" description="useEffect" toReformat="true" toShortenFQNames="true">
+  <template name="uef" value="useEffect(() =&gt; {&#10;  $effect$&#10;}, [$input$]);$END$" description="useEffect" toReformat="true" toShortenFQNames="true">
     <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context>
@@ -868,21 +868,21 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ucb" value="useCallback(() =&gt; {&#10;    $callback$&#10;  },&#10;  [$input$]&#10;);&#10;$END$" description="useCallback" toReformat="true" toShortenFQNames="true">
+  <template name="ucb" value="useCallback(() =&gt; {&#10;  $callback$&#10;},[$input$]);$END$" description="useCallback" toReformat="true" toShortenFQNames="true">
     <variable name="callback" expression="" defaultValue="&quot;callback&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ule" value="useLayoutEffect(() =&gt; {&#10;  return () =&gt; {&#10;    $effect$&#10;  },&#10;  [$input$]&#10;});&#10;$END$" description="useLayoutEffect" toReformat="true" toShortenFQNames="true">
+  <template name="ule" value="useLayoutEffect(() =&gt; {&#10;  $effect$&#10;}, [$input$]);$END$" description="useLayoutEffect" toReformat="true" toShortenFQNames="true">
     <variable name="effect" expression="" defaultValue="&quot;effect&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="&quot;input&quot;" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="umm" value="useMemo(() =&gt; $function$, [$input$]);$END$" description="useMemo" toReformat="true" toShortenFQNames="true">
+  <template name="umm" value="useMemo(() =&gt; {&#10;  $function$&#10;}, [$input$]);$END$" description="useMemo" toReformat="true" toShortenFQNames="true">
     <variable name="function" expression="" defaultValue="&quot;function&quot;" alwaysStopAt="true" />
     <variable name="input" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
