@@ -5,7 +5,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ve" value="var $name$ = $value$;" description="Declarations: var assignment" toReformat="false" toShortenFQNames="true">
+  <template name="ve" value="var $name$ = $value$;" description="Declarations: var assignment" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -103,7 +103,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="wl" value="while ($condition$) {&#10;  $END$&#10;}" description="Flow Control: while loop" toReformat="false" toShortenFQNames="true">
+  <template name="wl" value="while ($condition$) {&#10;  $END$&#10;}" description="Flow Control: while loop" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -153,7 +153,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fa" value="$fn$.apply($context$, $arguments$)" description="Functions: function apply" toReformat="false" toShortenFQNames="true">
+  <template name="fa" value="$fn$.apply($context$, $arguments$)" description="Functions: function apply" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -162,7 +162,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fc" value="$fn$.call($context$, $arguments$)" description="Functions: function call" toReformat="false" toShortenFQNames="true">
+  <template name="fc" value="$fn$.call($context$, $arguments$)" description="Functions: function call" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -171,7 +171,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="fb" value="$fn$.bind($context$, $arguments$)" description="Functions: function bind" toReformat="false" toShortenFQNames="true">
+  <template name="fb" value="$fn$.bind($context$, $arguments$)" description="Functions: function bind" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="fn" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="context" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -203,7 +203,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gfn" value="function* $name$ ($arguments$) {&#10;  $END$&#10;}" description="Functions: named generator function (ES6)" toReformat="false" toShortenFQNames="true">
+  <template name="gfn" value="function* $name$ ($arguments$) {&#10;  $END$&#10;}" description="Functions: named generator function (ES6)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -270,7 +270,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cf" value="$fn_name$($arguments$) {&#10;  $END$&#10;}" description="Objects and classes: class function (ES6 syntax)" toReformat="false" toShortenFQNames="true">
+  <template name="cf" value="$fn_name$($arguments$) {&#10;  $END$&#10;}" description="Objects and classes: class function (ES6 syntax)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="fn_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -278,7 +278,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="kv" value="$key$: $value$" description="Objects and classes: key/value pair" toReformat="false" toShortenFQNames="true">
+  <template name="kv" value="$key$: $value$" description="Objects and classes: key/value pair" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="key" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -286,7 +286,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="m" value="$method$ = ($arguments$) =&gt; {&#10;    $END$&#10;}" description="Objects and classes: method (ES6 syntax)" toReformat="false" toShortenFQNames="true">
+  <template name="m" value="$method$ ($arguments$) {&#10;    $END$&#10;}" description="Objects and classes: method (ES6 syntax)" toReformat="false" toShortenFQNames="true">
     <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -302,7 +302,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="proto" value="$class$.prototype.$method_name$ = function ($arguments$) {&#10;  $END$&#10;};" description="Objects and classes: prototype method (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="proto" value="$class$.prototype.$method_name$ = function ($arguments$) {&#10;  $END$&#10;};" description="Objects and classes: prototype method (chainable)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="method_name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -318,37 +318,37 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rth" value="return this;" description="Returning values: return this" toReformat="false" toShortenFQNames="true">
+  <template name="rth" value="return this;" description="Returning values: return this" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rn" value="return null;" description="Returning values: return null" toReformat="false" toShortenFQNames="true">
+  <template name="rn" value="return null;" description="Returning values: return null" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rt" value="return true;" description="Returning values: return true" toReformat="false" toShortenFQNames="true">
+  <template name="rt" value="return true;" description="Returning values: return true" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="rf" value="return false;" description="Returning values: return false" toReformat="false" toShortenFQNames="true">
+  <template name="rf" value="return false;" description="Returning values: return false" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="r0" value="return 0" description="Returning values: return 0" toReformat="false" toShortenFQNames="true">
+  <template name="r0" value="return 0" description="Returning values: return 0" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="r-1" value="return -1" description="Returning values: return -1" toReformat="false" toShortenFQNames="true">
+  <template name="r-1" value="return -1" description="Returning values: return -1" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -396,7 +396,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="tof" value="typeof $source$ === '$type$';" description="Types: typeof comparison" toReformat="false" toShortenFQNames="true">
+  <template name="tof" value="typeof $source$ === '$type$';" description="Types: typeof comparison" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="source" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="undefined" alwaysStopAt="true" />
     <context>
@@ -404,7 +404,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iof" value="$source$ instanceof $object$" description="Types: instanceof comparison" toReformat="false" toShortenFQNames="true">
+  <template name="iof" value="$source$ instanceof $object$" description="Types: instanceof comparison" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="source" expression="" defaultValue="source" alwaysStopAt="true" />
     <variable name="object" expression="" defaultValue="Object" alwaysStopAt="true" />
     <context>
@@ -472,32 +472,32 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ita" value="it('$description$', (done) =&gt; {&#10;  $END$&#10;});" description="BDD testing (Mocha, Jasmine, etc.): asynchronous &quot;it&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="ita" value="it('$description$', (done) =&gt; {&#10;  $END$&#10;});" description="BDD testing (Mocha, Jasmine, etc.): asynchronous &quot;it&quot;" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="description" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="bef" value="before(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="bfa" value="beforeAll(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before all" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="befe" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before each" toReformat="false" toShortenFQNames="true" deactivated="true">
+  <template name="bfe" value="beforeEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): before each" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="after" value="after(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): after" toReformat="false" toShortenFQNames="true">
+  <template name="after" value="after(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): after" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="afte" value="afterEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): after each" toReformat="false" toShortenFQNames="true">
+  <template name="afe" value="afterEach(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): after each" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -547,15 +547,13 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="ae" value="$document$.addEventListener('$event$', function(e) {&#10;  $END$&#10;})" description="DOM specifics: addEventListener" toReformat="false" toShortenFQNames="true">
-    <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="afa" value="afterAll(() =&gt; {&#10;  $END$&#10;})" description="BDD testing (Mocha, Jasmine, etc.): after all" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gi" value="$document$.getElementById('$id$');" description="DOM specifics: getElementById" toReformat="false" toShortenFQNames="true">
+  <template name="gi" value="$document$.getElementById('$id$');" description="DOM specifics: getElementById" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="id" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -563,7 +561,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gc" value="Array.from($document$).getElementsByClassName('$class$');" description="DOM specifics: getElementByClassName" toReformat="false" toShortenFQNames="true">
+  <template name="gc" value="Array.from($document$).getElementsByClassName('$class$');" description="DOM specifics: getElementByClassName" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -571,7 +569,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="gt" value="Array.from($document$).getElementsByTagName('$class$');" description="DOM specifics: getElementByClassName" toReformat="false" toShortenFQNames="true">
+  <template name="gt" value="Array.from($document$).getElementsByTagName('$class$');" description="DOM specifics: getElementByClassName" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="class" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -579,7 +577,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="qs" value="$document$.querySelector('$selector$');" description="DOM specifics: querySelector" toReformat="false" toShortenFQNames="true">
+  <template name="qs" value="$document$.querySelector('$selector$');" description="DOM specifics: querySelector" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -587,7 +585,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="qsa" value="$document$.querySelectorAll('$selector$');" description="DOM specifics: querySelectorAll" toReformat="false" toShortenFQNames="true">
+  <template name="qsa" value="$document$.querySelectorAll('$selector$');" description="DOM specifics: querySelectorAll" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="document" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="selector" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -595,21 +593,21 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cb" value="(error, $value$) =&gt; { $END$ }" description="Node.js specifics:  Node.js style callback" toReformat="false" toShortenFQNames="true">
+  <template name="cb" value="(error, $value$) =&gt; { $END$ }" description="Node.js specifics:  Node.js style callback" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="re" value="require('$module$')" description="Node.js specifics:  require a module" toReformat="false" toShortenFQNames="true">
+  <template name="re" value="require('$module$')" description="Node.js specifics:  require a module" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="module" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="em" value="exports.$name$ = $value$;" description="Node.js specifics:  export member" toReformat="false" toShortenFQNames="true">
+  <template name="em" value="exports.$name$ = $value$;" description="Node.js specifics:  export member" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -617,7 +615,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="me" value="module.exports = $name$;" description="Node.js specifics:  module.exports" toReformat="false" toShortenFQNames="true">
+  <template name="me" value="module.exports = $name$;" description="Node.js specifics:  module.exports" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -654,7 +652,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="catch" value="catch(($err$) =&gt; {&#10;  $END$&#10;})" description="Promises: Promise.catch (chainable)" toReformat="false" toShortenFQNames="true">
+  <template name="catch" value="catch(($err$) =&gt; {&#10;  $END$&#10;})" description="Promises: Promise.catch (chainable)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="err" expression="" defaultValue="err" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -678,6 +676,13 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JSX_HTML" value="false" />
+    </context>
+  </template>
+  <template name="d" value="$VARKIND$ {$END$} = $object$;" description="Object destructure" toReformat="false" toShortenFQNames="true">
+    <variable name="VARKIND" expression="jsSuggestDefaultVariableKind()" defaultValue="const" alwaysStopAt="true" />
+    <variable name="object" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
