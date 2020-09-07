@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
-    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
-    <notification groupId="Quokka Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
-  </component>
-</application>
