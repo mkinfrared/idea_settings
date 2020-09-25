@@ -4,7 +4,7 @@
     <property name="created">2020-09-12T12:45:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-09-24T13:20:14</property>
+    <property name="modified">2020-09-25T10:56:23</property>
     <property name="originalScheme">Atom One Light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1146,22 +1146,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="fafaed" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ebfbeb" />
+        <option name="BACKGROUND" value="f1faf1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbebfb" />
+        <option name="BACKGROUND" value="faf1fa" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e5f8f8" />
+        <option name="BACKGROUND" value="eef9f9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1208,10 +1208,6 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -3633,7 +3629,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />

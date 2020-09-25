@@ -4,7 +4,7 @@
     <property name="created">2020-09-12T12:45:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-09-24T13:20:15</property>
+    <property name="modified">2020-09-25T10:56:23</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1138,22 +1138,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="fbfbee" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecfbec" />
+        <option name="BACKGROUND" value="f2fbf2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbecfb" />
+        <option name="BACKGROUND" value="fbf2fb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e6f9f9" />
+        <option name="BACKGROUND" value="effafa" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1194,10 +1194,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -3631,7 +3627,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
