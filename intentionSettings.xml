@@ -29,7 +29,6 @@
     <ignoreAction name="JavaScript/ECMAScript 6/Add export" />
     <ignoreAction name="JavaScript/ECMAScript 6/Change ES6 import " />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert 'forEach' to 'for..of'" />
-    <ignoreAction name="JavaScript/ECMAScript 6/Convert arrow function to anonymous function" />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert function and its member declarations to class" />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert template string to use visible line separators" />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert to multi-line string template" />
@@ -69,11 +68,8 @@
     <ignoreAction name="JavaScript/Shift Operation/Replace Shift with Multiply" />
     <ignoreAction name="JavaScript/Convert anonymous function to named function" />
     <ignoreAction name="JavaScript/Convert parameters to object" />
-    <ignoreAction name="JavaScript/Convert parameters to object and introduce interface" />
     <ignoreAction name="JavaScript/Convert to forEach call on array" />
-    <ignoreAction name="JavaScript/Convert to function expression" />
     <ignoreAction name="JavaScript/Edit values of object literal properties" />
-    <ignoreAction name="JavaScript/Install @types for the package" />
     <ignoreAction name="JavaScript/Introduce local variable" />
     <ignoreAction name="JavaScript/Join subsequent variable declarations" />
     <ignoreAction name="JavaScript/Quote property names" />
