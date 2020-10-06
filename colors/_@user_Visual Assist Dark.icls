@@ -4,7 +4,7 @@
     <property name="created">2020-09-27T11:45:01</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-10-06T20:40:50</property>
+    <property name="modified">2020-10-06T10:33:18</property>
     <property name="originalScheme">Visual Assist Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -12,6 +12,9 @@
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="2e2e20" />
@@ -35,6 +38,20 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="3c1f1f" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
