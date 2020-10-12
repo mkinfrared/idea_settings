@@ -1,9 +1,9 @@
 <scheme name="_@user_High contrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-10-11T20:38:32</property>
-    <property name="ide">idea</property>
+    <property name="created">2020-10-11T20:38:21</property>
+    <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-10-12T09:34:28</property>
+    <property name="modified">2020-10-12T20:03:18</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -247,8 +247,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="cccccc" />
@@ -608,7 +608,6 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
@@ -680,7 +679,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="SASS_MIXIN">
       <value />
     </option>
