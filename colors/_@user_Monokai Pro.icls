@@ -4,7 +4,7 @@
     <property name="created">2020-10-06T10:23:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-10-30T07:55:28</property>
+    <property name="modified">2020-10-31T11:49:00</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3433,7 +3433,6 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="78dce8" />
@@ -3465,7 +3464,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
