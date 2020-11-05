@@ -4,7 +4,7 @@
     <property name="created">2020-10-20T15:21:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-04T20:41:27</property>
+    <property name="modified">2020-11-05T13:56:57</property>
     <property name="originalScheme">Gruvbox Light Soft</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -1034,7 +1034,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="76678" />
