@@ -4,7 +4,7 @@
     <property name="created">2018-12-06T20:03:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.6.0.0</property>
-    <property name="modified">2020-11-25T09:36:10</property>
+    <property name="modified">2020-11-28T18:03:12</property>
     <property name="originalScheme">ULTRA</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1110,13 +1110,13 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
