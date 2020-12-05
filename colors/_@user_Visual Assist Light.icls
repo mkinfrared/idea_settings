@@ -1,11 +1,16 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="_@user_Visual Assist Light" version="142" parent_scheme="Visual Assist Light">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-06-28T11:40:44</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-12-02T17:37:49</property>
-    <property name="originalScheme">Default</property>
+    <property name="created">2020-12-05T10:19:59</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.4.0.0</property>
+    <property name="modified">2020-12-05T10:27:14</property>
+    <property name="originalScheme">Visual Assist Light</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
