@@ -26,7 +26,6 @@
     <ignoreAction name="JavaScript/Declaration/Split Declaration And Initialization" />
     <ignoreAction name="JavaScript/Declaration/Split Declaration And Move To Scope Start" />
     <ignoreAction name="JavaScript/ECMAScript 6/Add default export" />
-    <ignoreAction name="JavaScript/ECMAScript 6/Add export" />
     <ignoreAction name="JavaScript/ECMAScript 6/Change ES6 import " />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert 'forEach' to 'for..of'" />
     <ignoreAction name="JavaScript/ECMAScript 6/Convert function and its member declarations to class" />
