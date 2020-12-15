@@ -34,6 +34,10 @@
     <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
   <component name="LiveEditOptions" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
   </component>
