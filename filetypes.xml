@@ -2,14 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Docker" type="Dockerfile" />
-      <mapping pattern=".versionrc" type="JSON" />
       <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
-      <mapping pattern=".eslintrcignore" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="toml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
