@@ -4,7 +4,7 @@
     <property name="created">2020-10-06T10:23:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-12-09T09:29:31</property>
+    <property name="modified">2020-12-16T18:19:34</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -396,7 +396,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.IMPORTANT" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="fcfcfa" />
@@ -3475,7 +3475,7 @@
         <option name="FOREGROUND" value="78dce8" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
