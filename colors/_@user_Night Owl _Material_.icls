@@ -4,7 +4,7 @@
     <property name="created">2020-10-06T10:23:49</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.1.1.0.0</property>
-    <property name="modified">2020-12-16T18:28:38</property>
+    <property name="modified">2020-12-17T11:15:17</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -273,7 +273,7 @@
         <option name="FOREGROUND" value="ffcb8b" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
