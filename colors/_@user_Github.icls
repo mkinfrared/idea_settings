@@ -1,9 +1,9 @@
 <scheme name="_@user_Github" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2020-12-21T21:48:10</property>
+    <property name="created">2020-06-28T11:40:44</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-21T21:50:25</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-12-21T15:55:20</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -1687,11 +1687,6 @@
         <option name="FOREGROUND" value="86b3" />
       </value>
     </option>
-    <option name="SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="ccccff" />
-      </value>
-    </option>
     <option name="SLIM_BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -1839,11 +1834,6 @@
       <value>
         <option name="BACKGROUND" value="ffe4ff" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
-      </value>
-    </option>
-    <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="ffcdff" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME">
