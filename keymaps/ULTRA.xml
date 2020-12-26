@@ -1,4 +1,4 @@
-<keymap version="1" name="Windows copy" parent="$default">
+<keymap version="1" name="ULTRA" parent="$default">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
