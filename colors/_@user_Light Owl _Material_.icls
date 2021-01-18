@@ -4,7 +4,7 @@
     <property name="created">2020-12-26T12:13:08</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-17T13:15:01</property>
+    <property name="modified">2021-01-18T09:08:01</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -450,8 +450,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -1193,10 +1193,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JADE_FILE_PATH" baseAttributes="" />
+    <option name="JADE_FILTER_NAME" baseAttributes="" />
+    <option name="JADE_JS_BLOCK" baseAttributes="" />
+    <option name="JADE_STATEMENTS" baseAttributes="" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -3641,7 +3641,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
