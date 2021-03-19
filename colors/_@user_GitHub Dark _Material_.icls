@@ -1,10 +1,10 @@
 <scheme name="_@user_GitHub Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-03-19T21:36:30</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-03-19T21:37:26</property>
+    <property name="created">2021-01-11T14:17:25</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-03-19T19:49:38</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2142,7 +2142,6 @@
     <option name="SPEL.BACKGROUND">
       <value />
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="f97583" />

@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-03-19T21:36:30</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-03-19T21:37:26</property>
+    <property name="created">2021-01-11T14:17:25</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-03-19T19:49:37</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3371,7 +3371,6 @@
         <option name="FOREGROUND" value="383a42" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3397,7 +3396,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="c18401" />

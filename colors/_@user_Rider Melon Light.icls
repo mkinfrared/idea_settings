@@ -1,9 +1,9 @@
 <scheme name="_@user_Rider Melon Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-03-19T21:36:30</property>
+    <property name="created">2020-12-26T12:43:17</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-03-19T21:37:27</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-03-19T19:49:38</property>
     <property name="originalScheme">Rider Melon Light</property>
   </metaInfo>
   <colors>
@@ -41,10 +41,10 @@
     <option name="SOFT_WRAP_SIGN_COLOR" value="949494" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e8e8e80" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8e8e80" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="e8e8e80" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="8e8e80" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="88889940" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="e8e8e8" />
@@ -53,10 +53,10 @@
     <option name="ScrollBar.Mac.trackColor" value="e8e8e8" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.Transparent.hoverThumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="e8e8e80" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="8e8e80" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="88889940" />
     <option name="ScrollBar.Transparent.thumbColor" value="88889940" />
-    <option name="ScrollBar.Transparent.trackColor" value="e8e8e80" />
+    <option name="ScrollBar.Transparent.trackColor" value="8e8e80" />
     <option name="ScrollBar.background" value="e8e8e8" />
     <option name="ScrollBar.hoverThumbBorderColor" value="888899c0" />
     <option name="ScrollBar.hoverThumbColor" value="88889940" />
@@ -122,6 +122,7 @@
     <option name="CODE_VISION_HOVERED">
       <value>
         <option name="FOREGROUND" value="f54d6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -400,6 +401,7 @@
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c73c4a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
