@@ -1,10 +1,10 @@
 <scheme name="_@user_Light Owl (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-02T20:38:49</property>
-    <property name="ide">Rider</property>
-    <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2021-04-02T20:39:22</property>
+    <property name="created">2020-12-26T12:13:08</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-04-02T20:22:15</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -33,15 +33,6 @@
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fbfbfb" />
     <option name="DELETED_LINES_COLOR" value="de3d3b" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="994cc3" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="d3e8f8" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="4876d6" />
-    <option name="DIAGRAM_INNER_EDGE" value="c969b" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NODE_HEADER" value="d3e8f8" />
-    <option name="DIAGRAM_NOTE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NOTE_BORDER" value="d3e8f8" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="aa0982" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="cccccc" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="cccccc" />
     <option name="DOCUMENTATION_COLOR" value="fbfbfb" />
@@ -1052,9 +1043,6 @@
         <option name="FOREGROUND" value="4876d6" />
         <option name="FONT_TYPE" value="2" />
       </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
     </option>
     <option name="HTML_TAG">
       <value>
@@ -3203,8 +3191,6 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="de3d3b" />
-        <option name="ERROR_STRIPE_COLOR" value="de3d3b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3361,7 +3347,6 @@
         <option name="FOREGROUND" value="403f53" />
       </value>
     </option>
-    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -3393,7 +3378,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="4876d6" />
@@ -3420,7 +3404,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e2d8af" />
+        <option name="BACKGROUND" value="314365" />
       </value>
     </option>
     <option name="SLIM_CLASS">
