@@ -108,7 +108,7 @@
     <option name="IDENTIFIER_CASE" value="2" />
   </SQLiteCodeStyleSettings>
   <ScssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </ScssCodeStyleSettings>
   <SqlCodeStyleSettings version="5">
