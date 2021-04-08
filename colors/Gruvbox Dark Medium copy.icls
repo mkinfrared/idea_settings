@@ -1,10 +1,10 @@
-<scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
+<scheme name="Gruvbox Dark Medium copy" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-04-08T20:55:12</property>
+    <property name="created">2021-04-08T21:37:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
     <property name="modified">2021-04-08T21:48:19</property>
-    <property name="originalScheme">Gruvbox Dark Medium</property>
+    <property name="originalScheme">_@user_Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
