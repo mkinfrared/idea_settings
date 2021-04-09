@@ -1,10 +1,10 @@
 <scheme name="_@user_Light Owl (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-09T22:15:00</property>
+    <property name="created">2020-12-26T12:13:08</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-09T22:18:27</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-04-09T21:24:02</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,16 +13,16 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
@@ -33,15 +33,6 @@
     <option name="CARET_ROW_COLOR" value="f0f0f0" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fbfbfb" />
     <option name="DELETED_LINES_COLOR" value="de3d3b" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="994cc3" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="d3e8f8" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="4876d6" />
-    <option name="DIAGRAM_INNER_EDGE" value="c969b" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NODE_HEADER" value="d3e8f8" />
-    <option name="DIAGRAM_NOTE_BACKGROUND" value="fbfbfb" />
-    <option name="DIAGRAM_NOTE_BORDER" value="d3e8f8" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="aa0982" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="cccccc" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="cccccc" />
     <option name="DOCUMENTATION_COLOR" value="fbfbfb" />
@@ -205,8 +196,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="111111" />
@@ -459,8 +448,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -765,7 +754,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d5e9cd" />
+        <option name="BACKGROUND" value="a5c261" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1055,9 +1044,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -1205,10 +1191,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -2908,11 +2894,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_THIS_VAR">
-      <value>
-        <option name="FOREGROUND" value="c969b" />
-      </value>
-    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="4876d6" />
@@ -3210,8 +3191,6 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="EFFECT_COLOR" value="de3d3b" />
-        <option name="ERROR_STRIPE_COLOR" value="de3d3b" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3425,7 +3404,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="e2d8af" />
+        <option name="BACKGROUND" value="314365" />
       </value>
     </option>
     <option name="SLIM_CLASS">
@@ -3660,7 +3639,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -3688,7 +3667,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />

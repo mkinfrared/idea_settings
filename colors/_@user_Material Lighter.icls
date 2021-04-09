@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Lighter" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-04-09T22:15:00</property>
+    <property name="created">2020-12-26T12:13:08</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-09T22:18:27</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-04-09T21:24:02</property>
     <property name="originalScheme">Material Lighter</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,16 +13,15 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
   <colors>
@@ -32,15 +31,6 @@
     <option name="CARET_ROW_COLOR" value="ecf0f1" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fafafa" />
     <option name="DELETED_LINES_COLOR" value="b63b50" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="7c4dff" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="90a4ae" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="6182b8" />
-    <option name="DIAGRAM_INNER_EDGE" value="f6a434" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="fafafa" />
-    <option name="DIAGRAM_NODE_HEADER" value="d2d4d5" />
-    <option name="DIAGRAM_NOTE_BACKGROUND" value="fafafa" />
-    <option name="DIAGRAM_NOTE_BORDER" value="90a4ae" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="f36e3a" />
     <option name="DOCUMENTATION_COLOR" value="f3f5f6" />
     <option name="DOC_COMMENT_GUIDE" value="cfd8dc" />
     <option name="DOC_COMMENT_LINK" value="39adb5" />
@@ -245,7 +235,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="fdd7d7" />
+        <option name="BACKGROUND" value="e53935" />
       </value>
     </option>
     <option name="BROWSEWORDATCARET">
@@ -734,7 +724,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d5e9cd" />
+        <option name="BACKGROUND" value="91b859" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1012,9 +1002,6 @@
       <value>
         <option name="FOREGROUND" value="91b859" />
       </value>
-    </option>
-    <option name="HTML_CODE">
-      <value />
     </option>
     <option name="HTML_TAG">
       <value>
@@ -1393,7 +1380,7 @@
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="272727" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="3f51b5" />
       </value>
     </option>
@@ -2886,11 +2873,6 @@
         <option name="FOREGROUND" value="6182b8" />
       </value>
     </option>
-    <option name="PHP_THIS_VAR">
-      <value>
-        <option name="FOREGROUND" value="e53935" />
-      </value>
-    </option>
     <option name="PHP_VAR">
       <value>
         <option name="FOREGROUND" value="272727" />
@@ -3180,11 +3162,7 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value>
-        <option name="EFFECT_COLOR" value="e53935" />
-        <option name="ERROR_STRIPE_COLOR" value="e53935" />
-        <option name="EFFECT_TYPE" value="4" />
-      </value>
+      <value />
     </option>
     <option name="ReSharper.ASP_NET_ATTRIBUTE_NAME">
       <value>
