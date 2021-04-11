@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="100" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
@@ -8,21 +9,25 @@
     <option name="HEX_COLOR_UPPER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
-  <DB2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </HSQLCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
@@ -77,40 +82,43 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </SQLiteCodeStyleSettings>
   <ScssCodeStyleSettings>
-    <option name="HEX_COLOR_UPPER_CASE" value="true" />
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </ScssCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
-    <option name="ALIAS_CASE" value="0" />
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <SqlCodeStyleSettings version="5">
+    <option name="CUSTOM_TYPE_CASE" value="0" />
     <option name="QUOTED_IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="IDENTIFIER_CASE" value="0" />
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
   </SybaseCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
