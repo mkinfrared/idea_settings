@@ -1,12 +1,15 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-04-17T23:15:05</property>
+    <property name="created">2020-12-26T12:13:08</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-18T08:26:33</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-04-16T10:09:39</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="3a3a2c" />
@@ -30,6 +33,20 @@
     <option name="INDENT_RAINBOW_ERROR">
       <value>
         <option name="BACKGROUND" value="452828" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
   </attributes>
