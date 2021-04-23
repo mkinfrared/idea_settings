@@ -1,9 +1,9 @@
 <scheme name="_@user_Github" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-04-23T12:06:39</property>
+    <property name="created">2020-12-26T12:13:08</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-04-23T12:09:59</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-04-23T09:32:16</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -315,12 +315,6 @@
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="86b3" />
-      </value>
-    </option>
-    <option name="CSS.PROPERTY_VALUE">
-      <value>
-        <option name="FOREGROUND" value="8000" />
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
