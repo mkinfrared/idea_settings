@@ -1,9 +1,9 @@
 <scheme name="_@user_Rider Melon Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-05-18T20:20:01</property>
+    <property name="created">2020-12-26T12:43:17</property>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-05-18T20:22:23</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2021-05-17T09:24:38</property>
     <property name="originalScheme">Rider Melon Light</property>
   </metaInfo>
   <colors>
@@ -122,6 +122,7 @@
     <option name="CODE_VISION_HOVERED">
       <value>
         <option name="FOREGROUND" value="f54d6" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -400,6 +401,7 @@
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c73c4a" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
@@ -2514,7 +2516,7 @@
         <option name="FOREGROUND" value="8c6c41" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
     <option name="YAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="707070" />
