@@ -1,0 +1,42 @@
+<scheme name="_@user_Rider Light" version="142" parent_scheme="Rider Light">
+  <metaInfo>
+    <property name="created">2021-05-18T20:20:01</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-05-18T20:22:23</property>
+    <property name="originalScheme">Rider Light</property>
+  </metaInfo>
+  <colors>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="8e8e80" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="8e8e80" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="8e8e80" />
+    <option name="ScrollBar.Transparent.trackColor" value="8e8e80" />
+  </colors>
+  <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="ffffe8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="f0fff0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="fff0ff" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="eafdfd" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="d9bcbc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
