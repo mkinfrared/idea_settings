@@ -1,10 +1,10 @@
-<scheme name="_@user_Default" version="142" parent_scheme="Default">
+<scheme name="_@user_Rider Light" version="142" parent_scheme="Rider Light">
   <metaInfo>
-    <property name="created">2020-12-26T12:13:08</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-06-01T08:15:29</property>
-    <property name="originalScheme">Default</property>
+    <property name="created">2021-06-01T08:14:39</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-06-01T08:15:30</property>
+    <property name="originalScheme">Rider Light</property>
   </metaInfo>
   <attributes>
     <option name="INDENT_RAINBOW_COLOR_1">
