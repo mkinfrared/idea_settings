@@ -8,6 +8,7 @@
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping pattern=".dcignore" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="Shell Script" />
       <mapping ext="runsettings" type="XML" />
       <mapping ext="toml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
