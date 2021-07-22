@@ -4,7 +4,7 @@
     <property name="created">2021-01-11T14:17:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-07-15T12:17:19</property>
+    <property name="modified">2021-07-22T17:18:30</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -378,8 +378,8 @@
         <option name="FOREGROUND" value="b392f0" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="b392f0" />
@@ -950,10 +950,10 @@
         <option name="BACKGROUND" value="24292e" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -2345,7 +2345,7 @@
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="ffab70" />
