@@ -1,9 +1,9 @@
 <scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2021-12-03T10:00:15</property>
-    <property name="ide">WebStorm</property>
-    <property name="ideVersion">2021.3.0.0</property>
-    <property name="modified">2021-12-03T10:01:37</property>
+    <property name="created">2021-04-08T08:32:15</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.3.4.0.0</property>
+    <property name="modified">2021-10-07T14:01:29</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
@@ -18,35 +18,10 @@
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RIGHT_MARGIN_COLOR" value="665c54" />
+    <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="50494588" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Mac.thumbColor" value="50494588" />
-    <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Transparent.thumbColor" value="50494588" />
-    <option name="ScrollBar.Transparent.trackColor" value="" />
-    <option name="ScrollBar.background" value="282828" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="504945" />
-    <option name="ScrollBar.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.thumbColor" value="50494588" />
-    <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
   </colors>
   <attributes>
@@ -67,8 +42,9 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="fb4934" />
+        <option name="EFFECT_COLOR" value="fa4834" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
@@ -361,6 +337,11 @@
         <option name="FOREGROUND" value="d79921" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
@@ -395,7 +376,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d79921" />
+        <option name="FOREGROUND" value="fb4934" />
         <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -448,7 +429,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -490,14 +471,15 @@
       <value>
         <option name="BACKGROUND" value="611818" />
         <option name="EFFECT_COLOR" value="ebdbb2" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="fb4934" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -558,6 +540,9 @@
       <value>
         <option name="FOREGROUND" value="83a598" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="HTML_TAG_NAME">
       <value>
@@ -653,10 +638,13 @@
         <option name="FOREGROUND" value="83786e" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -695,7 +683,13 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
