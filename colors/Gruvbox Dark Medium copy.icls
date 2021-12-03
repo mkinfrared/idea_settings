@@ -3,7 +3,7 @@
     <property name="created">2021-04-08T21:37:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-10-07T14:01:29</property>
+    <property name="modified">2021-12-03T11:19:22</property>
     <property name="originalScheme">_@user_Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
-    <option name="DOCUMENTATION_COLOR" value="6b655f" />
+    <option name="DOCUMENTATION_COLOR" value="282828" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="INDENT_GUIDE" value="665c54" />
@@ -569,7 +569,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ebdbb2" />
-        <option name="BACKGROUND" value="5a590f" />
+        <option name="BACKGROUND" value="282828" />
         <option name="ERROR_STRIPE_COLOR" value="5a590f" />
       </value>
     </option>
