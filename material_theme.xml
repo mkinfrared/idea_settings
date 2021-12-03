@@ -4,6 +4,7 @@
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="isActiveBoldTab" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -11,7 +12,8 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="showOverlays" value="false" />
-    <option name="settingsSelectedTab" value="4" />
+    <option name="customSidebarHeight" value="28" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="fafafa" />
     <option name="secondAccentColor" value="5c5c5c" />
     <option name="highlightColor" value="80cbc4" />
