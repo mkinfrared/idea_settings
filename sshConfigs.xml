@@ -1,7 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="ochkarik3.zetest.site" id="afbc6fe2-d997-4f66-9da2-970c93212587" port="22" nameFormat="DESCRIPTIVE" username="ochkarik3.zetest.site" />
+      <sshConfig authType="PASSWORD" host="ochkarik3.zetest.site" id="afbc6fe2-d997-4f66-9da2-970c93212587" port="22" nameFormat="DESCRIPTIVE" username="ochkarik3.zetest.site" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.50.202" id="59623269-7d62-48ae-9338-3231e2a92fd4" port="22" nameFormat="DESCRIPTIVE" username="Korotkov" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
