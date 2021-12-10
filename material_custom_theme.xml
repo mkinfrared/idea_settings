@@ -4,9 +4,9 @@
     <option name="accentColor" value="000000ff" />
     <option name="notificationsColor" value="282828ff" />
     <option name="treeSelectionColor" value="4f49453f" />
-    <option name="highlightColor" value="3d3a39ff" />
-    <option name="secondBorderColor" value="504945ff" />
-    <option name="tableSelectedColor" value="32302fff" />
+    <option name="highlightColor" value="9e9e9eff" />
+    <option name="secondBorderColor" value="282828ff" />
+    <option name="tableSelectedColor" value="3f3d3cff" />
     <option name="contrastColor" value="212121ff" />
     <option name="disabledColor" value="999999ff" />
     <option name="secondaryBackgroundColor" value="282828ff" />
