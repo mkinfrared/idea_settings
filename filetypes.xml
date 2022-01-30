@@ -4,7 +4,6 @@
       <mapping pattern="Docker" type="Dockerfile" />
       <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".dcignore" type="PLAIN_TEXT" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
