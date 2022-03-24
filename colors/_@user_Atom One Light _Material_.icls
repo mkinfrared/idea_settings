@@ -4,7 +4,7 @@
     <property name="created">2021-01-11T14:17:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2022-03-19T14:47:20</property>
+    <property name="modified">2022-03-24T15:56:24</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1155,22 +1155,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f0f1f7" />
+        <option name="BACKGROUND" value="fbfbe4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecf7f3" />
+        <option name="BACKGROUND" value="ebfbeb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f5f8f1" />
+        <option name="BACKGROUND" value="fbebfb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fbf4ef" />
+        <option name="BACKGROUND" value="e5f8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1227,10 +1227,10 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="" />
-    <option name="JADE_FILTER_NAME" baseAttributes="" />
-    <option name="JADE_JS_BLOCK" baseAttributes="" />
-    <option name="JADE_STATEMENTS" baseAttributes="" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1299,7 +1299,7 @@
         <option name="FOREGROUND" value="986801" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -3667,7 +3667,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />

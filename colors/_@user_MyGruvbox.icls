@@ -4,7 +4,7 @@
     <property name="created">2022-03-19T18:44:11</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-19T18:44:14</property>
+    <property name="modified">2022-03-24T15:56:25</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <console-font>
@@ -609,6 +609,31 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83a598" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="37372a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2e372e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="372e37" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="2b3636" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="432626" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">

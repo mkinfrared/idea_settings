@@ -3,7 +3,7 @@
     <property name="created">2021-04-08T08:32:15</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2022-03-19T14:47:20</property>
+    <property name="modified">2022-03-24T15:56:25</property>
     <property name="originalScheme">Gruvbox Light Soft</property>
   </metaInfo>
   <colors>
@@ -568,22 +568,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="e9e0c5" />
+        <option name="BACKGROUND" value="f4e8ad" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="e6e6c1" />
+        <option name="BACKGROUND" value="e4e8b5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="efe7bf" />
+        <option name="BACKGROUND" value="f4d9c4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f5e3bd" />
+        <option name="BACKGROUND" value="dee6c2" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1049,7 +1049,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="76678" />
