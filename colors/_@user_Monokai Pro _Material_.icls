@@ -4,7 +4,7 @@
     <property name="created">2022-03-19T14:47:20</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-24T15:56:25</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">Monokai Pro (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1184,22 +1184,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3c392f" />
+        <option name="BACKGROUND" value="44424a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="333934" />
+        <option name="BACKGROUND" value="414747" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3c303d" />
+        <option name="BACKGROUND" value="484845" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2f383b" />
+        <option name="BACKGROUND" value="4c4444" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">

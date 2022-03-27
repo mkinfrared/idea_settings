@@ -3,7 +3,7 @@
     <property name="created">2021-04-08T08:32:15</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2022-03-24T15:56:24</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">Gruvbox Light Medium</property>
   </metaInfo>
   <colors>
@@ -594,22 +594,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbf3b7" />
+        <option name="BACKGROUND" value="f1eace" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecf3be" />
+        <option name="BACKGROUND" value="edf0ca" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbe3ce" />
+        <option name="BACKGROUND" value="f6f1c8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e6f0cb" />
+        <option name="BACKGROUND" value="fcecc6" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
