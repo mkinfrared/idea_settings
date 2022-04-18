@@ -24,6 +24,7 @@
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
