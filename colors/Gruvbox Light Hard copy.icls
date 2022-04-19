@@ -3,7 +3,7 @@
     <property name="created">2021-04-08T21:27:05</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-10-07T14:01:29</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">_@user_Gruvbox Light Hard</property>
   </metaInfo>
   <colors>
@@ -596,22 +596,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="faf6c5" />
+        <option name="BACKGROUND" value="efeddb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="eaf6cc" />
+        <option name="BACKGROUND" value="ebf3d7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fae7dc" />
+        <option name="BACKGROUND" value="f4f4d5" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e5f4da" />
+        <option name="BACKGROUND" value="faf0d3" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fae9d0" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fae3cc" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
