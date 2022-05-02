@@ -1,9 +1,9 @@
 <scheme name="_@user_WarmNeon" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-05-02T19:44:13</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-02T19:44:59</property>
+    <property name="created">2020-12-26T12:13:08</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -130,7 +130,6 @@
         <option name="BACKGROUND" value="404040" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="" />
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="eb6f6f" />

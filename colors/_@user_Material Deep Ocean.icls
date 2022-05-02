@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Deep Ocean" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-05-02T19:44:13</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-02T19:44:59</property>
+    <property name="created">2022-03-19T14:47:20</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1297,6 +1297,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -3128,7 +3132,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="" />
     <option name="PY.ANNOTATION">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -3146,7 +3149,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />

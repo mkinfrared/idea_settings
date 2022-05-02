@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Sandy Beach" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-05-02T19:44:13</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-02T19:44:59</property>
+    <property name="created">2022-01-28T22:11:05</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.3.1.0.0</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">Material Sandy Beach</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1492,18 +1492,18 @@
     </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="c9e67f" />
+        <option name="BACKGROUND" value="91b859" />
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="ff4b4c" />
+        <option name="BACKGROUND" value="bc3f3c" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="BACKGROUND" value="d9ff" />
+        <option name="BACKGROUND" value="38526b" />
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">

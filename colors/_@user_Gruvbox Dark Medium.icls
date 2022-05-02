@@ -1,9 +1,9 @@
 <scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-05-02T19:44:13</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-02T19:44:59</property>
+    <property name="created">2021-04-08T08:32:15</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.3.4.0.0</property>
+    <property name="modified">2022-04-18T20:40:40</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <colors>
@@ -12,41 +12,40 @@
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
     <option name="DOCUMENTATION_COLOR" value="32302f" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
+    <option name="FILESTATUS_changelistConflict" value="fc9867" />
+    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
-    <option name="RIGHT_MARGIN_COLOR" value="665c54" />
+    <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="50494588" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Mac.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Mac.thumbColor" value="50494588" />
-    <option name="ScrollBar.Mac.trackColor" value="" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3c3836" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.Transparent.thumbColor" value="50494588" />
-    <option name="ScrollBar.Transparent.trackColor" value="" />
-    <option name="ScrollBar.background" value="282828" />
-    <option name="ScrollBar.hoverThumbBorderColor" value="504945" />
-    <option name="ScrollBar.hoverThumbColor" value="3c3836" />
-    <option name="ScrollBar.hoverTrackColor" value="282828" />
-    <option name="ScrollBar.thumbBorderColor" value="50494588" />
-    <option name="ScrollBar.thumbColor" value="50494588" />
-    <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
   </colors>
   <attributes>
@@ -67,8 +66,9 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="FOREGROUND" value="fb4934" />
+        <option name="EFFECT_COLOR" value="fa4834" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.EXTERNAL_COMMAND">
@@ -361,6 +361,11 @@
         <option name="FOREGROUND" value="d79921" />
       </value>
     </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
+      </value>
+    </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
@@ -395,7 +400,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="d79921" />
+        <option name="FOREGROUND" value="fb4934" />
         <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -448,7 +453,7 @@
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="efc090" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -490,14 +495,15 @@
       <value>
         <option name="BACKGROUND" value="611818" />
         <option name="EFFECT_COLOR" value="ebdbb2" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="fb4934" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -558,6 +564,9 @@
       <value>
         <option name="FOREGROUND" value="83a598" />
       </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
     </option>
     <option name="HTML_TAG_NAME">
       <value>
@@ -663,10 +672,13 @@
         <option name="FOREGROUND" value="83786e" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="83a598" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -705,7 +717,13 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="METHOD_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">

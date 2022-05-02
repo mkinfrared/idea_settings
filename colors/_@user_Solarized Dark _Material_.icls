@@ -1,10 +1,10 @@
 <scheme name="_@user_Solarized Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-05-02T19:44:13</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-02T19:44:59</property>
+    <property name="created">2022-03-19T14:47:20</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2021.3.2.0.0</property>
+    <property name="modified">2022-03-27T16:30:21</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1444,6 +1444,10 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JADE_TAG_ID">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -3333,8 +3337,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="" />
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.CLASS">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -3461,6 +3463,11 @@
         <option name="BACKGROUND" value="f4068" />
       </value>
     </option>
+    <option name="REST.BOLD">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -3488,6 +3495,11 @@
       <value>
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="REST.ITALIC">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
@@ -4165,7 +4177,6 @@
     <option name="SQL_SYNTETIC_ENTITY">
       <value />
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="b58900" />
