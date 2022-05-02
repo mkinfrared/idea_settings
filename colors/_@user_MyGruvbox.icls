@@ -4,7 +4,7 @@
     <property name="created">2022-03-19T18:44:11</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-05-02T19:01:30</property>
+    <property name="modified">2022-03-22T09:34:43</property>
     <property name="originalScheme">MyGruvbox</property>
   </metaInfo>
   <console-font>
@@ -613,22 +613,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="37372a" />
+        <option name="BACKGROUND" value="404145" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e372e" />
+        <option name="BACKGROUND" value="3d4542" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="372e37" />
+        <option name="BACKGROUND" value="444640" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3636" />
+        <option name="BACKGROUND" value="48433f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -675,7 +675,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="83786e" />
@@ -694,7 +694,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="fb4934" />
@@ -1067,7 +1067,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="83a598" />
