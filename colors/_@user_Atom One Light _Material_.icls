@@ -4,7 +4,7 @@
     <property name="created">2021-01-11T14:17:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2022-03-31T23:25:52</property>
+    <property name="modified">2022-05-02T19:01:30</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -285,7 +285,7 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -432,7 +432,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -457,11 +457,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -1075,7 +1075,7 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1157,22 +1157,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f0f1f7" />
+        <option name="BACKGROUND" value="fbfbe4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecf7f3" />
+        <option name="BACKGROUND" value="ebfbeb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f5f8f1" />
+        <option name="BACKGROUND" value="fbebfb" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fbf4ef" />
+        <option name="BACKGROUND" value="e5f8f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -1229,10 +1229,6 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1301,7 +1297,7 @@
         <option name="FOREGROUND" value="986801" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="50a14e" />
@@ -3669,7 +3665,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3697,7 +3693,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e4564a" />
