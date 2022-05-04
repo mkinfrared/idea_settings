@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="cmd /k &quot;%CMDER_ROOT%\vendor\init.bat&quot;" />
     <option name="myTabName" value="Local" />
   </component>
 </application>
