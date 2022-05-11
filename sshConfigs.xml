@@ -10,6 +10,7 @@
       <sshConfig authType="OPEN_SSH" host="172.31.99.88" id="5b4ff9ec-ce6b-4a52-b1c1-f4d11bca114c" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="172.31.111.255" id="7a6e11c5-4b22-4e44-9aa1-8fbe501942c7" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
       <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="544be550-4c6e-486b-9d7a-3b91f4370a97" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.17.24.9" id="97219f54-b317-491c-92e5-b92409e9d7de" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
