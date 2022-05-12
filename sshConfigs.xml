@@ -4,6 +4,14 @@
       <sshConfig authType="PASSWORD" host="ochkarik3.zetest.site" id="afbc6fe2-d997-4f66-9da2-970c93212587" port="22" nameFormat="DESCRIPTIVE" username="ochkarik3.zetest.site" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.50.202" id="4da8c67d-ef8c-4557-91f6-86addbabacde" port="22" nameFormat="DESCRIPTIVE" username="AzureAD\MikhailKorotkov" useOpenSSHConfig="false" />
       <sshConfig authType="PASSWORD" host="192.168.64.2" id="56d747c6-69f3-4b67-9d36-40b413998b25" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="1f9f4915-0df0-4df2-aa44-01f545f00110" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="726f69c3-5ed8-4c0b-bf23-aa1c043affce" port="22" nameFormat="DESCRIPTIVE" username="MikhailKorotkov" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.31.99.88" id="5be8e62c-67dc-4ffb-bf76-7a3209a5ea34" port="22" nameFormat="DESCRIPTIVE" username="MikhailKorotkov" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.31.99.88" id="5b4ff9ec-ce6b-4a52-b1c1-f4d11bca114c" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.31.111.255" id="7a6e11c5-4b22-4e44-9aa1-8fbe501942c7" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="544be550-4c6e-486b-9d7a-3b91f4370a97" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.17.24.9" id="97219f54-b317-491c-92e5-b92409e9d7de" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="172.17.31.255" id="024c0d65-4a23-45ff-ba30-43d4f6a48985" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
