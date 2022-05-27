@@ -3,5 +3,6 @@
     <local-interpreter path="/opt/homebrew/opt/node@16/bin/node">
       <version-cache version="16.15.0" last-modified="1652704390011" />
     </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" excluded="true" />
   </component>
 </application>
