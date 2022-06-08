@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="Gruvbox Dark Medium copy" />
     <option name="excludedColor" value="303030ff" />
     <option name="accentColor" value="050505ff" />
     <option name="notificationsColor" value="282828ff" />
