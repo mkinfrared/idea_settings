@@ -1,11 +1,15 @@
 <scheme name="_@user_Gruvbox Dark Medium" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-04-08T08:32:15</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.3.4.0.0</property>
-    <property name="modified">2022-04-18T20:40:40</property>
+    <property name="modified">2022-06-08T20:29:21</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
