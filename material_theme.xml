@@ -17,14 +17,13 @@
     <option name="showOverlays" value="false" />
     <option name="customSidebarHeight" value="28" />
     <option name="customListItemsSize" value="24" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="9e9e9e" />
     <option name="secondAccentColor" value="5c5c5c" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="6227a36e:1678302aad2:-8000" />
-    <option name="version" value="7.5.0.3" />
-    <option name="stripedToolWindowsEnabled" value="true" />
+    <option name="version" value="7.8.1" />
   </component>
 </application>
