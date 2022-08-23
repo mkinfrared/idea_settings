@@ -26,7 +26,6 @@
     <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
     <entry key="rider.enable.designer.winForms" value="false" />
     <entry key="ide.experimental.ui" value="true" />
-    <entry key="debugger.new.tool.window.layout" value="true" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
   </component>
   <component name="StatusBar">
