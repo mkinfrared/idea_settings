@@ -36,7 +36,7 @@
     <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
     <option name="ESCAPE_PASTED_TEXT" value="false" />
   </component>
-  <component name="LiveEditOptions" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
+  <component name="LiveEditOptions" chromeAutoDelay="1000" chromeUpdateJSOnChanges="true" nodeAutoDelay="2000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
