@@ -15,6 +15,8 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="showOverlays" value="false" />
+    <option name="useProjectTitle" value="false" />
+    <option name="useProjectIcon" value="false" />
     <option name="customSidebarHeight" value="28" />
     <option name="customListItemsSize" value="24" />
     <option name="settingsSelectedTab" value="5" />
@@ -24,6 +26,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="6227a36e:1678302aad2:-8000" />
-    <option name="version" value="7.8.1" />
+    <option name="version" value="7.11.0" />
   </component>
 </application>

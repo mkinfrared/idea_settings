@@ -4,10 +4,10 @@
     <property name="created">2021-04-08T21:37:42</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2022-03-27T16:30:20</property>
+    <property name="modified">2022-10-09T12:35:29</property>
     <property name="originalScheme">_@user_Gruvbox Dark Medium</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="SourceCodePro+Powerline+Awesome Regular" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrainsMonoNL Nerd Font" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
