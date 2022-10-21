@@ -18,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.stories.tsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
