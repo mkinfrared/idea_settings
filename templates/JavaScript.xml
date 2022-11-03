@@ -74,4 +74,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="moduleexports" value="module.exports = $END$" description="Export statement - module.exports = a" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="arf" value="const $NAME$ = () =&gt; {&#10;$SELECTION$&#10;}" description="Surround with Arrow Function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
