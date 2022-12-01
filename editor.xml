@@ -6,20 +6,6 @@
     <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="CodeVisionSettings">
-    <option name="codeVisionGroupToPosition">
-      <map>
-        <entry key="inheritors" value="Default" />
-        <entry key="references" value="Default" />
-        <entry key="vcs.code.vision" value="Default" />
-      </map>
-    </option>
-    <option name="disabledCodeVisionProviderIds">
-      <set>
-        <option value="inheritors" />
-      </set>
-    </option>
-  </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="STRIP_TRAILING_SPACES" value="None" />
@@ -31,45 +17,11 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
-        <option value="Dockerfile.docker.inlay.hints" />
-        <option value="JavaScript.js.chain.hints" />
-        <option value="JavaScript.js.type.hints" />
-        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
-        <option value="Rust.chain-method.hints" />
-        <option value="Rust.rust.type.hints" />
-        <option value="TypeScript.ts.chain.hints" />
-        <option value="TypeScript.ts.enum.hints" />
         <option value="TypeScript.ts.type.hints" />
       </set>
     </option>
     <option name="enabled" value="false" />
-    <option name="lastViewedProviderKeyId" value=".references" />
-    <settingsMapElement>
-      <JavaScript.js.type.hints>
-        <Settings>
-          <option name="showForInferredParameters" value="false" />
-        </Settings>
-      </JavaScript.js.type.hints>
-      <TypeScript.ts.type.hints>
-        <Settings>
-          <option name="showForInferredParameters" value="false" />
-        </Settings>
-      </TypeScript.ts.type.hints>
-      <Rust.rust.type.hints>
-        <Settings>
-          <option name="showForIterators" value="false" />
-          <option name="showForLambdas" value="false" />
-          <option name="showForPlaceholders" value="false" />
-          <option name="showForVariables" value="false" />
-        </Settings>
-      </Rust.rust.type.hints>
-      <Rust.chain-method.hints>
-        <Settings>
-          <option name="iteratorSpecialCase" value="false" />
-          <option name="showSameConsecutiveTypes" value="false" />
-        </Settings>
-      </Rust.chain-method.hints>
-    </settingsMapElement>
+    <option name="lastViewedProviderKeyId" value="net.cakebuild.language.codeInsight.TaskInlayHintsProvider" />
   </component>
   <component name="JSEditorOptions">
     <option name="ESCAPE_PASTED_TEXT" value="false" />
