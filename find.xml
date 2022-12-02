@@ -1,21 +1,23 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
     <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.php</mask>
-    <mask>*.py</mask>
+    <mask>*.shtml</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.cts</mask>
+    <mask>*.ats</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
-    <mask>*.stories.tsx</mask>
-    <mask>*.tsx</mask>
   </component>
 </application>
