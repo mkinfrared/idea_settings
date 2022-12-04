@@ -10,8 +10,8 @@
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="Shell Script" />
-      <mapping ext="xcscheme" type="XML" />
       <mapping ext="gpx" type="XML" />
+      <mapping ext="xcscheme" type="XML" />
       <mapping ext="runsettings" type="XML" />
       <mapping ext="toml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
