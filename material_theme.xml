@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="accentColor" value="009688" />
+    <option name="userId" value="-578b50ed:1850687614f:-8000" />
+    <option name="version" value="8.3.2" />
+  </component>
+</application>
