@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Docker" type="Dockerfile" />
       <mapping pattern=".csharpierrc" type="JSON" />
       <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
@@ -9,7 +8,6 @@
       <mapping pattern=".dcignore" type="PLAIN_TEXT" />
       <mapping pattern="jest" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="Shell Script" />
       <mapping ext="xcscheme" type="XML" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="runsettings" type="XML" />
@@ -33,6 +31,8 @@
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="Docker" type="Dockerfile" />
+      <mapping pattern="pre-commit" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
