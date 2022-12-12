@@ -1,0 +1,21 @@
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="Gruvbox Dark Medium copy" />
+    <option name="excludedColor" value="303030ff" />
+    <option name="accentColor" value="050505ff" />
+    <option name="notificationsColor" value="282828ff" />
+    <option name="treeSelectionColor" value="59534f3f" />
+    <option name="highlightColor" value="535353ff" />
+    <option name="secondBorderColor" value="282828ff" />
+    <option name="tableSelectedColor" value="4b4948ff" />
+    <option name="contrastColor" value="212121ff" />
+    <option name="disabledColor" value="999999ff" />
+    <option name="secondaryBackgroundColor" value="272727ff" />
+    <option name="buttonColor" value="282828ff" />
+    <option name="selectionForegroundColor" value="fbf1c7ff" />
+    <option name="selectionBackgroundColor" value="4f4945ff" />
+    <option name="textColor" value="ebdbb2ff" />
+    <option name="foregroundColor" value="ebdbb2ff" />
+    <option name="backgroundColor" value="282828ff" />
+  </component>
+</application>

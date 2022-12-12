@@ -1,10 +1,22 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="isWizardShown" value="true" />
-    <option name="treeFontSizeEnabled" value="true" />
-    <option name="tabFontSizeEnabled" value="true" />
-    <option name="accentColor" value="009688" />
-    <option name="userId" value="-578b50ed:1850687614f:-8000" />
+    <option name="compactFields" value="true" />
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCompactFields" value="true" />
+    <option name="customListItemsSizeEnabled" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="showOverlays" value="false" />
+    <option name="settingsSelectedTab" value="5" />
+    <option name="accentColor" value="9e9e9e" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="75a44b4d:184eb5e174b:-8000" />
     <option name="version" value="8.3.2" />
   </component>
 </application>
