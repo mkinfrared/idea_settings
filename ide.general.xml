@@ -6,6 +6,8 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="999999" />
     <entry key="editor.focus.mode.color.dark" value="999999" />
+    <entry key="rdclient.asyncActions" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
