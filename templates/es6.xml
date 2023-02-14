@@ -254,7 +254,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="c" value="class $name$ {&#10;  constructor($arguments$) {&#10;    $END$&#10;  }&#10;}" description="Objects and classes: class (ES6)" toReformat="false" toShortenFQNames="true">
+  <template name="c" value="class $name$ {&#10;  constructor($arguments$) {&#10;    $END$&#10;  }&#10;}" description="Objects and classes: class (ES6)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -262,7 +262,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="cex" value="class $name$ extends $base$ {&#10;  constructor($arguments$) {&#10;    super($arguments$);&#10;    $END$&#10;  }&#10;}" description="Objects and classes: child class (ES6 syntax)" toReformat="false" toShortenFQNames="true">
+  <template name="cex" value="class $name$ extends $base$ {&#10;  constructor($arguments$) {&#10;    super($arguments$);&#10;    $END$&#10;  }&#10;}" description="Objects and classes: child class (ES6 syntax)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="base" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
@@ -286,7 +286,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="m" value="$method$ ($arguments$) {&#10;    $END$&#10;}" description="Objects and classes: method (ES6 syntax)" toReformat="false" toShortenFQNames="true">
+  <template name="m" value="$method$ ($arguments$) {&#10;    $END$&#10;}" description="Objects and classes: method (ES6 syntax)" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
