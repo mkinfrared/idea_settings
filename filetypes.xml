@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="Docker" type="Dockerfile" />
       <mapping ext="avif" type="Image" />
-      <mapping ext="webp" type="Image" />
       <mapping pattern=".csharpierrc" type="JSON" />
       <mapping pattern=".sadfrc" type="JSON" />
       <mapping pattern=".huskyrc" type="JSON" />
