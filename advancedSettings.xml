@@ -4,7 +4,7 @@
       <map>
         <entry key="documentation.components.enable.highlighting.of.links" value="true" />
         <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
-        <entry key="searcheverywhere.ml.sort.files" value="false" />
+        <entry key="searcheverywhere.ml.sort.classes" value="true" />
       </map>
     </option>
   </component>
