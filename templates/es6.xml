@@ -527,21 +527,21 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="si" value="setInterval(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setInterval" toReformat="false" toShortenFQNames="true">
+  <template name="si" value="setInterval(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setInterval" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="delay" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="st" value="setTimeout(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setTimeout" toReformat="false" toShortenFQNames="true">
+  <template name="st" value="setTimeout(() =&gt; {&#10;  $END$&#10;}, $delay$);" description="Timers: setTimeout" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="delay" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="sim" value="setImmediate(() =&gt; {&#10;  $END$&#10;});" description="Timers: setImmediate" toReformat="false" toShortenFQNames="true">
+  <template name="sim" value="setImmediate(() =&gt; {&#10;  $END$&#10;});" description="Timers: setImmediate" toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
@@ -695,6 +695,11 @@
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="eaf" value="export * from '$END$';&#10;" description="(ES6 modules: export * from)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
