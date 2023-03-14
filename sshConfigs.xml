@@ -1,7 +1,11 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="192.168.51.3" id="c0fed82f-9ef6-4bd1-896a-0196022ffe92" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.50.202" id="4da8c67d-ef8c-4557-91f6-86addbabacde" port="2022" nameFormat="DESCRIPTIVE" username="korotkov" useOpenSSHConfig="false" />
+      <sshConfig authType="PASSWORD" host="192.168.1.57" id="56d747c6-69f3-4b67-9d36-40b413998b25" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="1f9f4915-0df0-4df2-aa44-01f545f00110" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="192.168.50.202" id="726f69c3-5ed8-4c0b-bf23-aa1c043affce" port="22" nameFormat="DESCRIPTIVE" username="MikhailKorotkov" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.50.202" id="544be550-4c6e-486b-9d7a-3b91f4370a97" port="2222" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
