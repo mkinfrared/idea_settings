@@ -1,0 +1,47 @@
+<application>
+  <component name="ReactBuddyPluginAppSettings">
+    <option name="extensionLastUpdateCurrentMillis" value="1678950785789" />
+    <option name="extensions">
+      <ExtensionState>
+        <option name="libraryPackage" value="antd" />
+        <option name="paletteComponentName" value="AntdPalette" />
+        <option name="palettePackage" value="@react-buddy/palette-antd" />
+        <option name="versions">
+          <option value="4.18.1" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@chakra-ui/react" />
+        <option name="paletteComponentName" value="ChakraPalette" />
+        <option name="palettePackage" value="@react-buddy/palette-chakra-ui" />
+        <option name="versions">
+          <option value="2.3.1" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@mantine/core" />
+        <option name="paletteComponentName" value="MantinePalette" />
+        <option name="palettePackage" value="@react-buddy/palette-mantine" />
+        <option name="versions">
+          <option value="5.7.1" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="@mui/material" />
+        <option name="paletteComponentName" value="MUIPalette" />
+        <option name="palettePackage" value="@react-buddy/palette-mui" />
+        <option name="versions">
+          <option value="5.0.1" />
+        </option>
+      </ExtensionState>
+      <ExtensionState>
+        <option name="libraryPackage" value="react-intl" />
+        <option name="paletteComponentName" value="IntlPalette" />
+        <option name="palettePackage" value="@react-buddy/palette-react-intl" />
+        <option name="versions">
+          <option value="5.20.1" />
+        </option>
+      </ExtensionState>
+    </option>
+  </component>
+</application>
