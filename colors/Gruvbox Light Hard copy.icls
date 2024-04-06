@@ -38,8 +38,10 @@
     <option name="FILESTATUS_changelistConflict" value="c97a4f" />
     <option name="FILESTATUS_modifiedOutside" value="9c72b8" />
     <option name="GUTTER_BACKGROUND" value="f9f5d7" />
+    <option name="HINT_BORDER" value="c9ccd6" />
     <option name="INDENT_GUIDE" value="bdae93" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
+    <option name="LOOKUP_COLOR" value="faf5d7" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="MT_FILESTATUS_ADDED" value="78b53c" />
