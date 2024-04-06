@@ -2,8 +2,7 @@
   <component name="MaterialThemeNewConfig">
     <option name="accentState">
       <MTAccentConfigState>
-        <option name="accentColorHex" value="9e9e9e" />
-        <option name="overrideAccentColor" value="false" />
+        <option name="accentColorHex" value="d1d1d1" />
       </MTAccentConfigState>
     </option>
     <option name="customThemeState">
@@ -13,7 +12,7 @@
         <option name="backgroundColorHex" value="282828" />
         <option name="borderColorHex" value="282828" />
         <option name="buttonColorHex" value="282828" />
-        <option name="colorScheme" value="Gruvbox Dark Medium copy" />
+        <option name="colorScheme" value="Gruvbox Light Hard copy" />
         <option name="contrastColorHex" value="212121" />
         <option name="disabledColorHex" value="999999" />
         <option name="excludedColorHex" value="303030" />
@@ -36,23 +35,24 @@
     </option>
     <option name="lightCustomThemeState">
       <MTLightCustomThemeConfigState>
-        <option name="accentColorHex" value="050505" />
-        <option name="activeColorHex" value="4b4948" />
+        <option name="accentColorHex" value="d1d1d1" />
+        <option name="activeColorHex" value="f9f5d7" />
         <option name="backgroundColorHex" value="f9f5d7" />
-        <option name="borderColorHex" value="282828" />
-        <option name="buttonColorHex" value="282828" />
-        <option name="colorScheme" value="Gruvbox Dark Medium copy" />
-        <option name="contrastColorHex" value="212121" />
-        <option name="disabledColorHex" value="999999" />
-        <option name="excludedColorHex" value="303030" />
-        <option name="foregroundColorHex" value="ebdbb2" />
-        <option name="highlightColorHex" value="535353" />
-        <option name="notificationColorHex" value="282828" />
-        <option name="secondBackgroundColorHex" value="272727" />
-        <option name="selectionBackgroundColorHex" value="4f4945" />
-        <option name="selectionForegroundColorHex" value="fbf1c7" />
-        <option name="textColorHex" value="ebdbb2" />
-        <option name="treeColorHex" value="59534f" />
+        <option name="borderColorHex" value="d1d1d1" />
+        <option name="buttonColorHex" value="f9f5d7" />
+        <option name="colorScheme" value="Gruvbox Light Hard copy" />
+        <option name="contrastColorHex" value="f9f5d7" />
+        <option name="disabledColorHex" value="8c8c8c" />
+        <option name="excludedColorHex" value="f2f2f2" />
+        <option name="foregroundColorHex" value="000000" />
+        <option name="highlightColorHex" value="b0b0b0" />
+        <option name="notificationColorHex" value="faf5d7" />
+        <option name="secondAccentColorHex" value="ff1fc5" />
+        <option name="secondBackgroundColorHex" value="d0d0d0" />
+        <option name="selectionBackgroundColorHex" value="ebdbb2" />
+        <option name="selectionForegroundColorHex" value="282828" />
+        <option name="textColorHex" value="3c3837" />
+        <option name="treeColorHex" value="ebdbb2" />
       </MTLightCustomThemeConfigState>
     </option>
     <option name="metadata">
@@ -76,7 +76,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="CUSTOM" />
+        <option name="selectedThemeName" value="LIGHT_CUSTOM" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">
