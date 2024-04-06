@@ -13,7 +13,7 @@
         <option name="backgroundColorHex" value="282828" />
         <option name="borderColorHex" value="282828" />
         <option name="buttonColorHex" value="282828" />
-        <option name="colorScheme" value="Default" />
+        <option name="colorScheme" value="Gruvbox Dark Medium copy" />
         <option name="contrastColorHex" value="212121" />
         <option name="disabledColorHex" value="999999" />
         <option name="excludedColorHex" value="303030" />
@@ -38,10 +38,10 @@
       <MTLightCustomThemeConfigState>
         <option name="accentColorHex" value="050505" />
         <option name="activeColorHex" value="4b4948" />
-        <option name="backgroundColorHex" value="282828" />
+        <option name="backgroundColorHex" value="f9f5d7" />
         <option name="borderColorHex" value="282828" />
         <option name="buttonColorHex" value="282828" />
-        <option name="colorScheme" value="Default" />
+        <option name="colorScheme" value="Gruvbox Dark Medium copy" />
         <option name="contrastColorHex" value="212121" />
         <option name="disabledColorHex" value="999999" />
         <option name="excludedColorHex" value="303030" />
@@ -76,7 +76,7 @@
     </option>
     <option name="themeState">
       <MTThemeConfigState>
-        <option name="selectedThemeName" value="NATIVE" />
+        <option name="selectedThemeName" value="CUSTOM" />
       </MTThemeConfigState>
     </option>
     <option name="titleBarState">

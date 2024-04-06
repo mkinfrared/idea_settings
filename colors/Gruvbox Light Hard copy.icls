@@ -535,6 +535,12 @@
         <option name="FOREGROUND" value="665c54" />
       </value>
     </option>
+    <option name="DUPLICATE_FROM_SERVER">
+      <value>
+        <option name="FOREGROUND" value="c90000" />
+        <option name="BACKGROUND" value="f5f7f0" />
+      </value>
+    </option>
     <option name="ELIXIR_BIT">
       <value />
     </option>
@@ -1067,7 +1073,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79740e" />
+        <option name="FOREGROUND" value="c90000" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
