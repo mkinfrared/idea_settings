@@ -1,0 +1,95 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="9e9e9e" />
+        <option name="overrideAccentColor" value="false" />
+      </MTAccentConfigState>
+    </option>
+    <option name="customThemeState">
+      <MTCustomThemeConfigState>
+        <option name="accentColorHex" value="050505" />
+        <option name="activeColorHex" value="4b4948" />
+        <option name="backgroundColorHex" value="282828" />
+        <option name="borderColorHex" value="282828" />
+        <option name="buttonColorHex" value="282828" />
+        <option name="colorScheme" value="Default" />
+        <option name="contrastColorHex" value="212121" />
+        <option name="disabledColorHex" value="999999" />
+        <option name="excludedColorHex" value="303030" />
+        <option name="foregroundColorHex" value="ebdbb2" />
+        <option name="highlightColorHex" value="535353" />
+        <option name="notificationColorHex" value="282828" />
+        <option name="secondBackgroundColorHex" value="272727" />
+        <option name="selectionBackgroundColorHex" value="4f4945" />
+        <option name="selectionForegroundColorHex" value="fbf1c7" />
+        <option name="textColorHex" value="ebdbb2" />
+        <option name="treeColorHex" value="59534f" />
+      </MTCustomThemeConfigState>
+    </option>
+    <option name="featuresState">
+      <MTFeaturesConfigState>
+        <option name="animatedToolWindows" value="false" />
+        <option name="centeredEditor" value="false" />
+        <option name="showOverlays" value="false" />
+      </MTFeaturesConfigState>
+    </option>
+    <option name="lightCustomThemeState">
+      <MTLightCustomThemeConfigState>
+        <option name="accentColorHex" value="050505" />
+        <option name="activeColorHex" value="4b4948" />
+        <option name="backgroundColorHex" value="282828" />
+        <option name="borderColorHex" value="282828" />
+        <option name="buttonColorHex" value="282828" />
+        <option name="colorScheme" value="Default" />
+        <option name="contrastColorHex" value="212121" />
+        <option name="disabledColorHex" value="999999" />
+        <option name="excludedColorHex" value="303030" />
+        <option name="foregroundColorHex" value="ebdbb2" />
+        <option name="highlightColorHex" value="535353" />
+        <option name="notificationColorHex" value="282828" />
+        <option name="secondBackgroundColorHex" value="272727" />
+        <option name="selectionBackgroundColorHex" value="4f4945" />
+        <option name="selectionForegroundColorHex" value="fbf1c7" />
+        <option name="textColorHex" value="ebdbb2" />
+        <option name="treeColorHex" value="59534f" />
+      </MTLightCustomThemeConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="migrated" value="true" />
+        <option name="pristineConfig" value="false" />
+        <option name="userId" value="-2fd809df:18bf95647b0:-8000" />
+        <option name="version" value="9.1.0" />
+        <option name="wizardShown" value="true" />
+      </MTMetadataState>
+    </option>
+    <option name="projectTreeState">
+      <MTProjectTreeConfigState>
+        <option name="treeFontEnabled" value="true" />
+      </MTProjectTreeConfigState>
+    </option>
+    <option name="tabsState">
+      <MTTabsConfigState>
+        <option name="tabFontEnabled" value="true" />
+      </MTTabsConfigState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="NATIVE" />
+      </MTThemeConfigState>
+    </option>
+    <option name="titleBarState">
+      <MTTitleBarConfigState>
+        <option name="useColoredTitleBar" value="false" />
+        <option name="useProjectIcon" value="false" />
+        <option name="useProjectTitle" value="false" />
+      </MTTitleBarConfigState>
+    </option>
+    <option name="uiComponentsState">
+      <MTUiComponentsConfigState>
+        <option name="borderedButtons" value="true" />
+      </MTUiComponentsConfigState>
+    </option>
+  </component>
+</application>

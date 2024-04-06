@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.51.3" id="325e9b20-9a44-499b-b7fa-1acf851876f4" keyPath="$USER_HOME$/.ssh/id_rsa" port="2222" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="main.home" id="8813dee7-9539-4cd5-9502-220e1d18bc91" port="22" nameFormat="DESCRIPTIVE" username="mkinfrared" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>

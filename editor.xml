@@ -1,0 +1,112 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="AUTOCOMPLETE_ON_CODE_COMPLETION" value="false" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Top" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="defaultPosition" value="Right" />
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="0" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="disabledOptions">
+      <set>
+        <option value="js.type.hints#function.returns" />
+        <option value="js.type.hints#non.paren.single.param" />
+        <option value="js.type.hints#parameters.in.parens" />
+        <option value="js.type.hints#variables.and.fields" />
+        <option value="ts.type.hints#function.returns" />
+        <option value="ts.type.hints#non.paren.single.param" />
+        <option value="ts.type.hints#parameters.in.parens" />
+        <option value="ts.type.hints#variables.and.fields" />
+      </set>
+    </option>
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="false" />
+        <entry key="js.type.hints" value="false" />
+        <entry key="ts.chain.hints" value="false" />
+        <entry key="ts.enum.hints" value="false" />
+        <entry key="ts.type.hints" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_PERSISTENT" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Dockerfile.docker.inlay.hints" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="Rust.chain-method.hints" />
+        <option value="Rust.rust.type.hints" />
+        <option value="TypeScript.ts.type.hints" />
+      </set>
+    </option>
+    <option name="enabled" value="false" />
+    <option name="lastViewedProviderKeyId" value=".references" />
+    <settingsMapElement>
+      <Rust.rust.type.hints>
+        <Settings>
+          <option name="showForIterators" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForPlaceholders" value="false" />
+          <option name="showForVariables" value="false" />
+        </Settings>
+      </Rust.rust.type.hints>
+      <Rust.chain-method.hints>
+        <Settings>
+          <option name="iteratorSpecialCase" value="false" />
+          <option name="showSameConsecutiveTypes" value="false" />
+        </Settings>
+      </Rust.chain-method.hints>
+    </settingsMapElement>
+  </component>
+  <component name="JSEditorOptions">
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+    <option name="CONVERT_HTML_TO_JSX" value="false" />
+  </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_ENTER" value="false" />
+    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
+  <component name="LiveEditOptions" chromeAutoDelay="5000" chromeUpdateJSOnChanges="true" nodeAutoDelay="30000" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
+  </component>
+</application>
