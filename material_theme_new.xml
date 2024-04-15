@@ -30,7 +30,6 @@
     <option name="featuresState">
       <MTFeaturesConfigState>
         <option name="animatedToolWindows" value="false" />
-        <option name="centeredEditor" value="false" />
         <option name="showOverlays" value="false" />
       </MTFeaturesConfigState>
     </option>
@@ -61,7 +60,7 @@
         <option name="migrated" value="true" />
         <option name="pristineConfig" value="false" />
         <option name="userId" value="-2fd809df:18bf95647b0:-8000" />
-        <option name="version" value="9.1.0" />
+        <option name="version" value="9.2.1" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
