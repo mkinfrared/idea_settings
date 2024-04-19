@@ -640,7 +640,7 @@
         <option name="FOREGROUND" value="24292e" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="" />
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="6f42c1" />
@@ -707,8 +707,8 @@
         <option name="FOREGROUND" value="5cc4" />
       </value>
     </option>
-    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
-    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="" />
+    <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="24292e" />
@@ -1346,7 +1346,7 @@
         <option name="FOREGROUND" value="5cc5" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="5cc5" />
@@ -2868,7 +2868,7 @@
         <option name="FOREGROUND" value="22863a" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="24292e" />
@@ -2898,7 +2898,7 @@
     <option name="XSLT_DIRECTIVE">
       <value />
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="5cc5" />
