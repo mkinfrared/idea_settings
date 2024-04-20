@@ -274,9 +274,9 @@
       </value>
     </option>
     <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="" />
     <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -1642,7 +1642,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="JS.PARAMETER" baseAttributes="" />
     <option name="JS.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -3716,7 +3716,7 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value />
     </option>
